@@ -28,7 +28,7 @@ GIF created with [Kap](https://getkap.co/).
 
 - To me, the most challenging part about this assignment was setting up github and getting used
 to android studio which I've never used before. Still, I think I had some issues uploading y project
-into github and it might be unorganized. 
+into github and it might be unorganized.
 
 ## License
 
