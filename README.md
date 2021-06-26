@@ -11,16 +11,18 @@ Time spent: 8 hours spent in total
 
 The following required functionality is completed:
 
-* [ ] User can view a list of todo items**
-* [ ] User can successfully add and remove items** from the todo list
-* [ ] User's list of items are persisted** across app restarts
+* [X] User can view a list of todo items**
+* [X] User can successfully add and remove items** from the todo list
+* [X] User's list of items are persisted** across app restarts
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-/Users/paulinalh/Desktop/SimpleToDo/SimpleToDo/ScreenShots/SimpleToDo.gif
+[Gif Video](Screenshots/SimpleToDo.gif)
+
+<img src='Screenshots/SimpleToDo.gif' title='Simple To Do Video' width='500' alt='Simple To Do Video' />
 
 GIF created with [Kap](https://getkap.co/).
 
