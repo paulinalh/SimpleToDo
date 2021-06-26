@@ -20,9 +20,9 @@ The following required functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[Gif Video](Screenshots/SimpleToDo.gif)
+[Gif Video](Gif/SimpleToDo.gif)
 
-<img src='Screenshots/SimpleToDo.gif' title='Simple To Do Video' width='500' alt='Simple To Do Video' />
+<img src='Gif/SimpleToDo.gif' title='Simple To Do Video' width='500' alt='Simple To Do Video' />
 
 GIF created with [Kap](https://getkap.co/).
 
